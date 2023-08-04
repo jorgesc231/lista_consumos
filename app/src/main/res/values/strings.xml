@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Consumo Bar</string>
+    <string name="empty_list_text">Ingresa Productos</string>
+    <string name="add_product">Agregar producto</string>
+    <string name="product_name">Nombre del producto</string>
+    <string name="precio_unitario">Precio Unitario</string>
+    <string name="quantity">Cantidad</string>
+    <string name="total">Total:</string>
+    <string name="save">Guardar</string>
+    <string name="delete_list">Borrar Lista</string>
+    <string name="list_screen_name">Consumos</string>
+    <string name="product_detail_screen_name">Detalle del Producto</string>
+
+    <string name="price_format">$ %1$s</string>
+    <string name="cu_price_format">$ %1$s c/u</string>
+    <string name="total_string_format">Total: $ %1$s</string>
+</resources>
